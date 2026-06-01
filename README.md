@@ -88,15 +88,16 @@ Mobile & Full-Stack Developer • React Native Specialist • Building scalable 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toemmanuel&show_icons=true&theme=tokyonight" alt="github stats" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=toemmanuel&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toemmanuel&theme=tokyonight" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toemmanuel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 # toemmanuel
