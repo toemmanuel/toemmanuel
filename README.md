@@ -4,11 +4,11 @@
 Mobile & Full-Stack Developer • React Native Specialist • Building scalable digital experiences
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/toemmanuel">
     <img src="https://komarev.com/ghpvc/?username=toemmanuel&label=Profile%20views&color=0e75b6&style=flat" alt="toemmanuel" />
   </a>
-</p>
+</p> -->
 
 ---
 
