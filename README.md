@@ -65,7 +65,7 @@ Mobile & Full-Stack Developer • React Native Specialist • Building scalable 
 
 <p align="left">
   <a href="https://x.com/to_emmanuel93" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" height="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
   
   <a href="https://www.linkedin.com/in/tochukwu-emmanuel/" target="_blank">
