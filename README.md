@@ -27,25 +27,25 @@ Mobile & Full-Stack Developer • React Native Specialist • Building scalable 
 ### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,swift,kotlin,firebase" />
+  <img height="40" src="https://skillicons.dev/icons?i=react,swift,kotlin,firebase" />
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+  <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 </p>
 
 ### Backend & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,nginx,firebase" />
+  <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,docker,nginx,firebase" />
 </p>
 
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,bash,jest" />
+  <img height="40" src="https://skillicons.dev/icons?i=git,github,figma,postman,bash,jest" />
 </p>
 
 ---
