@@ -81,7 +81,7 @@ Mobile & Full-Stack Developer • React Native Specialist • Building scalable 
 
 ## 📧 Contact
 
-- Email: **toemmanuel93@gmail.com**
+- Email: **to.emmanuel93@gmail.com**
 - GitHub: **https://github.com/toemmanuel**
 
 ---
