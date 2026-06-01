@@ -64,11 +64,11 @@ Mobile & Full-Stack Developer • React Native Specialist • Building scalable 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/iem_joviks" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <a href="https://x.com/to_emmanuel93" target="_blank">
+    <img src="https://skillicons.dev/icons?i=x" height="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/emmanuel-tochukwu-671447125/" target="_blank">
+  <a href="https://www.linkedin.com/in/tochukwu-emmanuel/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 
